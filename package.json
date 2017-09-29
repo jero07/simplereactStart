@@ -6,9 +6,9 @@
     "author": "Jerome",
     "license": "MIT",
     "dependencies": {
-        "express": "^4.15.4",
-        "react": "^15.6.1",
-        "react-dom": "^15.6.1"
+        "express": "^4.16.0",
+        "react": "^16.0.0",
+        "react-dom": "^16.0.0"
     },
     "devDependencies": {
         "babel-cli": "^6.24.1",
@@ -27,10 +27,10 @@
         "open": "^0.0.5",
         "style-loader": "^0.18.2",
         "url-loader": "^0.5.9",
-        "webpack": "^3.5.2",
+        "webpack": "^3.6.0",
         "webpack-dev-middleware": "^1.12.0",
-        "webpack-dev-server": "^2.7.1",
-        "webpack-hot-middleware": "^2.18.2"
+        "webpack-dev-server": "^2.9.1",
+        "webpack-hot-middleware": "^2.19.1"
     },
     "scripts": {
         "start": "babel-node tools/server.js"
